@@ -4,10 +4,12 @@ Server runs on:
                http://localhost:3000
                
 1. Start the server
-
 Run the app (example if file is index.js):
-
 node index.js
+
+
+open your command prompt :
+
 
 2. Add a student (POST) :
 curl -X POST http://localhost:3000/students \
